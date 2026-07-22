@@ -1,0 +1,26 @@
+# VS Code
+.vscode/
+
+# Python
+backend/venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# FastAPI
+backend/uploads/
+backend/vector_store/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# OS
+Thumbs.db
+.DS_Store
+# Runtime data
+backend/app/uploads/
+backend/app/vectorstore/
+backend/app/metadata/
